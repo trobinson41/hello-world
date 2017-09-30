@@ -1,2 +1,2 @@
 # hello-world
-Working thru the tutorial
+My name's Tim Robinson. I'm a software developer, working mostly in .NET.
